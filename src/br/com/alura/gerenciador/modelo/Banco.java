@@ -30,9 +30,6 @@ public class Banco {
 		
 		listaUsuarios.add(u1);
 		listaUsuarios.add(u2);
-		
-		System.out.println(u1.getLogin() + " | " + u1.getSenha());
-		System.out.println(u2.getLogin() + " | " + u2.getSenha());
 	}
 	
 	public void adiciona(Empresa empresa) {
